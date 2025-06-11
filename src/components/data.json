@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "id" : 1,
+            "name" : "Budi WIbowo",
+            "status" : "Hadir",
+            "totalAbsensi" : 2,
+            "role" : "user",
+            "noWa" : "08389522",
+            "position" : "Guru"},
+        {
+            "id" : 2,
+            "name" : "Agus",
+            "status" : "Tidak Hadir",
+            "totalAbsensi" : 4,
+            "role" : "user",
+            "noWa" : "08389522",
+            "position" : "Staff"},
+        {
+            "id" : 3,
+            "name" : "Rahman",
+            "status" : "Hadir",
+            "totalAbsensi" : 0,
+            "role" : "user",
+            "noWa" : "08389522",
+            "position" : "Guru"}
+]
+}
