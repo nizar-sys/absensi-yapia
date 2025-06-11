@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "[my-framework] build --output public",
+    "build": "vite build --output public",
     "lint": "eslint .",
     "preview": "vite preview"
   },
